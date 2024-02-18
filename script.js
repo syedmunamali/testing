@@ -1,2 +1,2 @@
 // JavaScript code goes here
-console.log("Hello, this is JavaScript!");
+console.log("Hello, this is JavaScript! from newbranch");
